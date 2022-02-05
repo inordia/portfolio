@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Spatial Data Analysis  
 
 [Indego Ridership Prediction and Rebalancing](/sample_page)
 <img src="images/bike.png"/>
@@ -20,7 +20,7 @@
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [San Francisco On-street Parking Prediction: Demand-Responsive Pricing](https://github.com/Zhen3r/pro-forma/blob/main/final.html)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
