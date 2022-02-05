@@ -17,13 +17,12 @@
 
 ---
 
-### Category Name 2
+### Related Course Projects
 
-- [Project 1 Title](http://example.com/)
-- [San Francisco On-street Parking Prediction: Demand-Responsive Pricing](https://github.com/Zhen3r/pro-forma/blob/main/final.html)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Indego Ridership Prediction and Rebalancing](https://github.com/inordia/portfolio/blob/change-the-layout/images/Assignment-6.html)
+- [San Francisco On-street Parking Prediction: Demand-Responsive Pricing](https://github.com/inordia/portfolio/blob/change-the-layout/images/final.html)
+- [Chicago Crime Prediction](https://github.com/inordia/portfolio/blob/change-the-layout/images/WangRan_Assignment3.html)
+- [Online Food Vending: Urban Food System in China during COVID](https://arcg.is/1CL18O)
 
 ---
 
