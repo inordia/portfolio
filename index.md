@@ -4,16 +4,16 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Indego Ridership Prediction and Rebalancing](/sample_page)
 <img src="images/bike.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[San Francisco On-street Parking Prediction: Demand-Responsive Pricing](/pdf/sample_presentation.pdf)
+<img src="images/parking.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Chicago Crime Prediction](http://example.com/)
+<img src="images/crime.png"/>
 
 ---
 
